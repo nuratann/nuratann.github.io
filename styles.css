@@ -1,6 +1,7 @@
 body{
     padding: 50px;
     margin: 50px;
+    background-color: #E0FFFF;
     text-align: center;
 }
 ul{
@@ -9,4 +10,7 @@ ul{
 }
 li{
     margin: 10px;
+}
+img{
+    border-radius: 10px;
 }
